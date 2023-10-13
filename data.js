@@ -13,14 +13,14 @@ export const tweetsData = [
   },
   {
     handle: `@Elon ✅`,
-    profilePic: `images/musk.png`,
+    profilePic: `https://i.postimg.cc/KYZscMW8/musk.png`,
     likes: 6500,
     retweets: 234,
     tweetText: `I need volunteers for a one-way mission to Mars 🪐. No experience necessary🚀`,
     replies: [
       {
         handle: `@TomCruise ✅`,
-        profilePic: `images/tcruise.png`,
+        profilePic: `https://i.postimg.cc/SK10wdKh/tcruise.png`,
         tweetText: `Yes! Sign me up! 😎🛩`,
       },
       {
@@ -35,7 +35,7 @@ export const tweetsData = [
   },
   {
     handle: `@NoobCoder12`,
-    profilePic: `images/flower.png`,
+    profilePic: `https://i.postimg.cc/SR0PhvFw/flower.png`,
     likes: 10,
     retweets: 3,
     tweetText: `Are you a coder if you only know HTML?`,
