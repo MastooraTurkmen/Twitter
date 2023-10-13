@@ -7,7 +7,9 @@ $ npm start
 
 Head over to https://vitejs.dev/ to learn more about using vite
 
-## Twitter
+# Twitter
+
+https://twitter-twimba.netlify.app/
 
 A simple Twitter project.
 
