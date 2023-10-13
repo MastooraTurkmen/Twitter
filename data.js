@@ -25,7 +25,7 @@ export const tweetsData = [
       },
       {
         handle: `@ChuckNorris ✅`,
-        profilePic: `images/chucknorris.jpeg`,
+        profilePic: `https://i.postimg.cc/7ZbnKnj7/chucknorris.jpg`,
         tweetText: `I went last year😴`,
       },
     ],
@@ -42,12 +42,12 @@ export const tweetsData = [
     replies: [
       {
         handle: `@StackOverflower ☣️`,
-        profilePic: `images/overflow.png`,
+        profilePic: `https://i.postimg.cc/fTzK9NK8/overflow.png`,
         tweetText: `No. Obviosuly not. Go get a job in McDonald's.`,
       },
       {
         handle: `@YummyCoder64`,
-        profilePic: `images/love.png`,
+        profilePic: `https://i.postimg.cc/yNgn8yPB/love.png`,
         tweetText: `You are wonderful just as you are! ❤️`,
       },
     ],
