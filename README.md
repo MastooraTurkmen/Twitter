@@ -13,7 +13,7 @@ https://twitter-twimba.netlify.app/
 
 A simple Twitter project.
 
-![Alt text](twimba-one.png)
+![Alt text](./screenshots/twimba-one.png)
 
 ![Alt text](twimba-three.png)
 
