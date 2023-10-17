@@ -17,4 +17,4 @@ A simple Twitter project.
 
 ![Alt text](./screenshots/twimba-three.png)
 
-![Alt text](twimba-two.png)
+![Alt text](./screenshots/twimba-two.png)
