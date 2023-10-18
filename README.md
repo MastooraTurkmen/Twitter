@@ -2,13 +2,15 @@
 
 https://twitter-twimba.netlify.app/
 
-A simple Twitter project.
+A simple Twitter project. You can write and read comments there. 
 
 ![Alt text](./screenshots/twimba-one.png)
 
 ![Alt text](./screenshots/twimba-three.png)
 
 ![Alt text](./screenshots/twimba-two.png)
+
+-----
 
 
 ## Languages and Tools are used
