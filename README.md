@@ -39,4 +39,6 @@ A simple Twitter project. You can write and read comments there.
 $ gh repo clone MastooraTurkmen/Twitter
 
 # Go inside the repository
+$ cd twitter
+
 ```
