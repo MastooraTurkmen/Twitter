@@ -31,3 +31,5 @@ A simple Twitter project. You can write and read comments there.
 
 -----
 
+
+## For cloning the project 🪛
