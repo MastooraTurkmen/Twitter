@@ -36,7 +36,7 @@ A simple Twitter project. You can write and read comments there. And also, you c
 
 ```
 # Clone this repository
-$ gh repo clone MastooraTurkmen/Twitter
+$ git clone MastooraTurkmen/Twitter
 
 # Go inside the repository
 $ cd Twitter
