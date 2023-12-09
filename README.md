@@ -2,7 +2,7 @@
 
 https://twitter-twimba.netlify.app/
 
-A simple Twitter project. You can write and read comments there. 
+A simple Twitter project. You can write and read comments there. And also, you can write on What's happening place and tweet it below. 
 
 ![Alt text](./screenshots/twimba-one.png)
 
@@ -39,7 +39,7 @@ A simple Twitter project. You can write and read comments there.
 $ gh repo clone MastooraTurkmen/Twitter
 
 # Go inside the repository
-$ cd twitter
+$ cd Twitter
 
 ```
 
@@ -48,7 +48,7 @@ $ cd twitter
 
 ## Deployment📥
 
-1. How to deploy our project to netlify site?
+1. How to deploy our project to the Netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 4. From there select **_Deploy with Github_**.
 5. Then write your project name and select it.
