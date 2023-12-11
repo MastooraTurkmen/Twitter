@@ -4,11 +4,11 @@ https://twitter-twimba.netlify.app/
 
 A simple Twitter project. You can write and read comments there. And also, you can write on What's happening place and tweet it below. 
 
-![Alt text](./screenshots/twimba-one.png)
+![Screenshot-twimba](./screenshots/twimba-one.png)
 
-![Alt text](./screenshots/twimba-three.png)
+![Screenshot-twimba](./screenshots/twimba-three.png)
 
-![Alt text](./screenshots/twimba-two.png)
+![Screenshot-twimba](./screenshots/twimba-two.png)
 
 -----
 
